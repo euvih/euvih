@@ -1,4 +1,4 @@
-# Olá, eu sou a Vitória 👋🏻
+# Hi, I'm Vitória 👋🏻
 
 🎓 Estudante de Bacharelado em Tecnologia da Informação (BTI) na UFRN.
 
