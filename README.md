@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @euvih
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  Java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá, eu sou a Vitória 👋
 
-<!---
-euvih/euvih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Bacharelado em Tecnologia da Informação (BTI) na UFRN.
+
+💻 Tenho interesse em desenvolvimento Front-end, Java, JavaScript, HTML, CSS, Tailwind, Node.js e Next.js.
+
+📚 Atualmente estou estudando:
+
+* Programação Orientada a Objetos
+* Estruturas de Dados
+* UML
+* Desenvolvimento Web
+* Java
+
+🚀 Também desenvolvo projetos pessoais e atividades acadêmicas para aprimorar minhas habilidades na área de tecnologia.
+
+## 🛠 Tecnologias e Ferramentas
+
+* Java
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Node.js
+* Next.js
+* Git e GitHub
+
+## 📂 Projetos
+
+Aqui no meu GitHub você encontrará:
+
+* Atividades da faculdade
+* Projetos de estudo
+* Exercícios de programação
+* Diagramas UML
+* Projetos web
+
+## 🌱 Objetivos
+
+Busco evoluir constantemente como desenvolvedora, adquirir experiência profissional e criar projetos cada vez mais completos.
+
+## 📫 Contato
+
+Você pode me encontrar através do GitHub ou LinkedIn.
+
