@@ -1,4 +1,4 @@
-# Olá, eu sou a Vitória 👋
+# Olá, eu sou a Vitória 👋🏻
 
 🎓 Estudante de Bacharelado em Tecnologia da Informação (BTI) na UFRN.
 
@@ -12,7 +12,7 @@
 * Desenvolvimento Web
 * Java
 
-🚀 Também desenvolvo projetos pessoais e atividades acadêmicas para aprimorar minhas habilidades na área de tecnologia.
+🚀 Também desenvolvo projetos pessoais para aprimorar minhas habilidades na área de tecnologia.
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -29,11 +29,11 @@
 
 Aqui no meu GitHub você encontrará:
 
+* Projetos web
 * Atividades da faculdade
 * Projetos de estudo
 * Exercícios de programação
 * Diagramas UML
-* Projetos web
 
 ## 🌱 Objetivos
 
