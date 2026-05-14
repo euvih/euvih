@@ -14,31 +14,6 @@
 
 🚀 Também desenvolvo projetos pessoais para aprimorar minhas habilidades na área de tecnologia.
 
-## 🛠 Tecnologias e Ferramentas
-
-* Java
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Node.js
-* Next.js
-* Git e GitHub
-
-## 📂 Projetos
-
-Aqui no meu GitHub você encontrará:
-
-* Projetos web
-* Atividades da faculdade
-* Projetos de estudo
-* Exercícios de programação
-* Diagramas UML
-
-## 🌱 Objetivos
-
-Busco evoluir constantemente como desenvolvedora, adquirir experiência profissional e criar projetos cada vez mais completos.
-
 ## 📫 Contato
 
 ## Connect with me:
@@ -51,7 +26,7 @@ Busco evoluir constantemente como desenvolvedora, adquirir experiência profissi
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,4 +36,6 @@ Busco evoluir constantemente como desenvolvedora, adquirir experiência profissi
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
