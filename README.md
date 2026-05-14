@@ -41,13 +41,12 @@ Busco evoluir constantemente como desenvolvedora, adquirir experiência profissi
 
 ## 📫 Contato
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euvih&layout=compact&theme=tokyonight)## Connect with me:
+## Connect with me:
 
 <a href="https://linkedin.com/in/seulinkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:vitoriakellypdasilva@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
